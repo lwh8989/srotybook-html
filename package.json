@@ -25,7 +25,9 @@
     "@storybook/addon-essentials": "^6.1.16",
     "@storybook/addon-links": "^6.1.16",
     "@storybook/html": "^6.1.16",
-    "babel-loader": "^8.2.2"
+    "@whitespace/storybook-addon-html": "^4.2.0",
+    "babel-loader": "^8.2.2",
+    "storybook-zeplin": "^1.1.4"
   },
   "dependencies": {}
 }
